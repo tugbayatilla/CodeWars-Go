@@ -1,7 +1,4 @@
-package main
-
-func main() {
-}
+package kata
 
 func wave(s string) []string {
 	wave := []string{}
